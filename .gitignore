@@ -1,0 +1,24 @@
+# Compilados de Maven
+target/
+
+# Archivos compilados
+*.class
+
+# Credenciales reales (NUNCA subir)
+src/main/resources/database.properties
+
+# Logs generados por la aplicación
+logs/
+*.log
+
+# Configuración de editores
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
