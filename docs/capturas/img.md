@@ -5,3 +5,9 @@
 ![alt text](image-4.png)Citas
 ![alt text](image-5.png)Errores
 ![alt text](image-6.png)schema_datos_ouput
+![alt text](image-7.png)Pruebas
+![alt text](image-8.png)Pruebas
+![alt text](image-9.png)Doctores
+![alt text](image-10.png)Reportes
+![alt text](image-11.png)Citas
+![alt text](image-12.png)Pacientes
